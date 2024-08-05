@@ -1,4 +1,4 @@
-#Encode-Decode application
+**Encode-Decode application**
 
 This application is created by me. 
 I used tkinter module in Python to create this application.
