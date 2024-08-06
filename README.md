@@ -9,9 +9,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | C(basic) | Java(basic)
+- 💻 &nbsp; Python(Intermediate) | C(basic) | Java(basic)
 - 🔧 &nbsp; Visual Studio code | Git
-- 🖥 &nbsp; Adobe Photoshop | Davinci Resolve
+- 🖥 &nbsp; Adobe Photoshop(basic) | Davinci Resolve(basic)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/souvik-guria-/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
+&nbsp; <a href="mailto:soumyajeetdas5@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 </p>
 
-⭐️ From [Soumyajeet Das](https://github.com/devSouvik)
+⭐️ From [Soumyajeet Das]((https://github.com/Soumya-the-programmer))
