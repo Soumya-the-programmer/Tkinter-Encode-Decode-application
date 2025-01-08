@@ -1,5 +1,5 @@
 
-# Encode-Decode Application
+# Secret Code Converter
 
 This application can convert a text into a encrypted text and also the encrypted text can be decrypted into original text using this application.
 
